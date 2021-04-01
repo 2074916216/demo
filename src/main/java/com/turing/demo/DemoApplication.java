@@ -10,6 +10,8 @@ public class DemoApplication {
 
         System.out.println("第一次提交");
 
+        System.out.println("master分支创建");
+
         SpringApplication.run(DemoApplication.class, args);
     }
 
