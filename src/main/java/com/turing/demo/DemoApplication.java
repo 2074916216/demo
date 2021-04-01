@@ -12,6 +12,8 @@ public class DemoApplication {
 
         System.out.println("master分支创建");
 
+        System.out.println("dev的分支创建");
+
         SpringApplication.run(DemoApplication.class, args);
     }
 
